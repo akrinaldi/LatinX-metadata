@@ -1,0 +1,6 @@
+Not sure what went wron gin test 1 with the json formatting. I might need to create a cleaning script or manage what data we collect.
+
+Step 1: Do a call for one journal, one year
+Step 2: Clean JSON
+Step 3: Convert to CSV
+Step 4: Collect DOIs from CSV to run abstract call test
