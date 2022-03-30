@@ -1,0 +1,3 @@
+Complete pulls will give us better information for sifting through results, but it seems I'm hitting another snag.
+
+The HTTP 400 error - I've hit the call limit. I'll have to troubleshoot this. It must be related to my API key permissions.
