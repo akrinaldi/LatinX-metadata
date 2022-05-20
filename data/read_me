@@ -1,1 +1,19 @@
 CSV of collected data and associated files
+
+
+***notes***
+
+scopus coverage discontinued past 2016 for library journal
+
+limitations of our method:
+relies on title or keyword matches
+	many articles do not provide keyword data
+	some titles do not have keyword matches
+the scopus library is incomplete
+
+
+Spanish library terminology
+https://www.unm.edu/~emmons/nmla/spanish-library-jargon.html
+
+new total after keyword changes: 2,444
+*** not cleaned for dupes
