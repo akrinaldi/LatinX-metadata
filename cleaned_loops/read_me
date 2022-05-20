@@ -1,0 +1,5 @@
+In order to account for missing data, I have put into action the following changes to colleciton and reading scripts:
+
+- a rewrite of the full pull script to limit by 51 years
+- a complete overhaul of the combine and keyword loop scripts
+- an expansion of keywords
