@@ -1,0 +1,5 @@
+THis set contains four files. Two of them are not cleaned for duplicates. Two are.
+
+One of the sets contains null values for language and affiliation. The other excludes any null values.
+
+All sets have been sorted to include only English-language publications with an author with a U.S. affiliation in the list of authors.
